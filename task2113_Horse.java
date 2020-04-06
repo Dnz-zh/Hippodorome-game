@@ -1,9 +1,5 @@
 package com.javarush.task.task21.task2113;
 
-/*
-1. В методе move класса Horse значение поля distance должно увеличиваться на расстояние пройденное за один
-"ход"(значение поля speed) умноженное на случайное число от нуля до единицы полученное с помощью вызова метод Math.random().
- */
 
 public class Horse {
     public String name;
